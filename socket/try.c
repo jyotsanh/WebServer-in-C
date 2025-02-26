@@ -1,3 +1,9 @@
+/*
+TODO(jyotsan):
+    - Create a simple socket server
+    - Create a simple socket client
+*/
+
 #include <stdio.h>
 #include <sys/socket.h>
 
