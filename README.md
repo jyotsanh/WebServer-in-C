@@ -1,3 +1,4 @@
+![mem](./img/meme.jpg)
 # WebServer-in-C
 What is this?
 Welcome to my wild journey of creating a web server in C. If you’ve ever wanted to read from a file and write to a file for a boring project, well, I’ve been there. So, I’m here to actually do something cool (hopefully) with C. I’m going to learn the art of C, one line at a time, and maybe mess up a lot in the process, but hey, that’s the fun part!
@@ -12,3 +13,5 @@ Learn: Don’t forget to learn something cool (I promise it’s a little fun).
 # Troubleshooting
 Bug? Error? Oh no, please open an issue. It’s what I’m here for, right?
 Can’t get it working? Same, me too. Open an issue, and let’s figure it out together.
+
+![memo](./img/tenor.gif)
